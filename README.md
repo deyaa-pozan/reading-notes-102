@@ -7,6 +7,6 @@
 
 |**page**|**link**|
 |  :----:  | ---:   |
-|   portfolio   |  [portfolio.md](portfolio.md)   |
-| Seeing  |  [Seeing.md](Seeing-Your-Remote.md)     |
-| new learn     | [new-learn.md](new-learn.md)    |
+|   portfolio   |  [portfolio.md](portfolio)   |
+| Seeing  |  [Seeing.md](Seeing-Your-Remote)     |
+| new learn     | [new-learn.md](new-learn)    |
