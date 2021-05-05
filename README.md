@@ -11,3 +11,5 @@
 | Seeing   |  [Seeing.md](Seeing-Your-Remote)     |
 | new learn     | [new-learn.md](new-learn)    |
 | read html    | [read-html.md](read-html)    |
+| read css    | [read-html.md](read-css)    |
+| read JS    | [read-js.md](read-js)    |
