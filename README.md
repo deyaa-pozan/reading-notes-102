@@ -13,7 +13,7 @@
 | read html    | [read-html.md](read-html)    |
 | read css    | [read-css.md](read-css)    |
 | read JS    | [read-js.md](read-js)    |
-| Read: 05    | [Operators-Loops.md](Operators-Loops.md)    |
+| Read: 05    | [Operators-Loops.md](Operators-Loops)    |
 
 
 
